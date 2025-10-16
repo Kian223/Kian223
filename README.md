@@ -1,10 +1,11 @@
-👋🏼 Hello there, I'm Deffa!
+👋🏼 Hi there, I'm Deffa!
 
-💻 Someone who shares his journey of learning tech and wants to become a professional software engineer. <br>
-🎓 Studied [Computer Science](https://likmi.ac.id/) at STMIK LIKMI, Bandung, Indonesia<br>
-📹 Making videos about Gaming, tech, and productivity on [YouTube](https://www.youtube.com/)<br>
-📌 About my Personal [Learning Path](https://roadmap.sh/frontend)<br>
-📊 Currently learning about how to become a Game Developer and Web Developer.
+Wellcome everyone! In this page, I share about my journey of learning coding to become a professional software engineer. <br>
+I’m currently studying [Computer Science](https://likmi.ac.id/) at STMIK LIKMI in Bandung, Indonesia. <br>
+Apart from coding, I create videos about gaming, tech, and productivity on [YouTube](https://www.youtube.com/) to share what I learn along the way. <br>
+I’m actively following my personal [Learning Path](https://roadmap.sh/frontend) and currently diving deeper into Game Development and Web Development.
+
+
 
 
 ## 🌐 Socials:
