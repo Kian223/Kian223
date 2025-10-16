@@ -4,7 +4,7 @@
 🎓 Studied [Computer Science](https://likmi.ac.id/) at STMIK LIKMI, Bandung, Indonesia<br>
 📹 Making videos about Gaming, tech, and productivity on [YouTube](https://www.youtube.com/)<br>
 📌 About my Personal [Learning Path](https://roadmap.sh/frontend)<br>
-📊 Currently learning about how to become a Game Developer and Web Developer.<br>https://
+📊 Currently learning about how to become a Game Developer and Web Developer.
 
 
 ## 🌐 Socials:
