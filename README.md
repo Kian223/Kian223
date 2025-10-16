@@ -20,7 +20,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kian223&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kian223&icon=0&color=2)](https://visitcount.itsvg.in)
