@@ -1,6 +1,6 @@
 👋🏼 Hi there, I'm Deffa!
 
-👾 Wellcome everyone! In this page, I share about my journey of learning coding to become a professional software engineer. <br>
+👾 Wellcome everyone!!  In this page, I share about my journey of learning coding to become a professional software engineer. <br>
 🖥️ I’m currently studying [Computer Science](https://likmi.ac.id/) at STMIK LIKMI in Bandung, Indonesia. <br>
 <br>
 Apart from coding, I create videos about gaming, tech, and productivity on ▶️[YouTube](https://www.youtube.com/) to share what I learn along the way. <br>
